@@ -1,0 +1,6 @@
+[submodule "businessdomain"]
+	path = businessdomain
+	url = https://github.com/yosee1441/paymentchain-bussines-domain.git
+[submodule "infraestructuradomain"]
+	path = infraestructuradomain
+	url = https://github.com/yosee1441/paymentchain-infraestructura-domain.git
